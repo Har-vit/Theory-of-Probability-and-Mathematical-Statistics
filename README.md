@@ -1,5 +1,5 @@
-## [GeekBrains] Специализация 'Машинное обучение'
-https://machinelearning.geekbrains.ru/
+## [GeekBrains] Факультет искусственного интеллекта
+https://geekbrains.ru/geek_university/data-science
 
 ### Курс 'Теория вероятностей и математическая статистика'
 
